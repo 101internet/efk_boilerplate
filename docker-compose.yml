@@ -25,5 +25,3 @@ services:
 
     fluent_collector:
         build: fluent_collector
-#        ports:
-#            - 24224:24224/tcp
